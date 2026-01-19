@@ -1,21 +1,38 @@
 def add(a,b):
-return a + b
+	try:
+	  return a + b
+	except Exception:
+		return "invalid input please try again"
 
 def subtract(a,b):
-return a - b
+	try:
+	  return a - b
+	except Exception:
+		return "invalid input please try again"
 
 def multiply(a,b):
-return a*b
+	try:
+	   return a*b
+	except Exception:
+	   return "invalid input please try again"
 
 def divide(a,b):
-if b == 0:
-	raise ValueError("You cannot divide by zero")
-return a/b
+	try:
+	  return a/b
+	except Exception:
+	    return("You cannot divide by zero, please try again")
 
 def power(a,b):
-	return a**b
+	try:
+	  return a**b
+	except Exception:
+		return "invalid input please try again"
 
 def square_root(a):
-if a < 0:
-	raise ValueError("You cannot take the square root of a negatibe number.")
-	return a ** 0.5
+    try:
+        if a < 0:
+            return "You cannot take the square root of a negative number."
+        return a ** 0.5
+    except Exception:
+        return "Invalid input, please try again"
+
