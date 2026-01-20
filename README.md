@@ -18,6 +18,6 @@ This repository will contain coursework material we will be ultilizing for our f
 - View the result
 
 ## Features
-- basic operations
-- error handling
-- command-line interface
++ basic operations
++ error handling
++ command-line interface
