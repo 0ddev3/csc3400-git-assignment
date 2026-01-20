@@ -1,6 +1,4 @@
-# ORIGINAL VERSION — THIS IS MAIN BRANCH
-
-
+# Software Engineering Git Assignment
 Name: Yvette Boyd
 Student ID: 1301169
 
@@ -19,6 +17,6 @@ This repository will contain coursework material we will be ultilizing for our f
 - View the result
 
 ## Features
-- basic operations
-- error handling
-- command-line interface
++ basic operations
++ error handling
++ command-line interface
