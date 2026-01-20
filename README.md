@@ -1,4 +1,8 @@
-# Software Engineering Git Assignment
+# Software Engineering Git Assignment - Completed
+
+# Version
+v1.0.0
+
 Name: Yvette Boyd
 Student ID: 1301169
 
