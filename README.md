@@ -12,6 +12,10 @@ This repository will contain coursework material we will be ultilizing for our f
 2. Install Python3
 3. Run main.py
 
+## Usage
+- Pick an operation
+- Enter numbers when prompted
+- View the result
 
 ## Features
 - basic operations
