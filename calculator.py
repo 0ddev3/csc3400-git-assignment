@@ -1,5 +1,5 @@
 def add(a,b):
-return a + b
+return a + b - 50 # HOTFIX VERSION
 
 def subtract(a,b):
 return a - b
