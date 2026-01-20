@@ -1,4 +1,4 @@
-# My Software Engineering Project HAHAHAHAHHAJAJAJ
+# My Software Engineering Project(HOTFIX TITLE) - THIS IS THE HOTFIX BRANCH
 
 Name: Yvette Boyd
 Student ID: 1301169
