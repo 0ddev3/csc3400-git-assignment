@@ -1,4 +1,4 @@
-# My Software Engineering Project
+# My Software Engineering Project is TRASH LMAOOOOOOOOO
 
 Name: Yvette Boyd
 Student ID: 1301169
